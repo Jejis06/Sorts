@@ -14,12 +14,6 @@ All of the code is in [./src](./src)
 cat src/*
 ```
 
-
-## Speeds
-
-All of them are worst than the best sorting algoryth "time sort"
-
-
 ## 🛠 Skills
 All of those can sort arrays B)
 
